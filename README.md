@@ -38,6 +38,10 @@ Página "Sobre nós" e contato:
 ## 🔗 Navegação
 As três páginas compartilham o mesmo cabeçalho e menu (Home, Flores, Formulário), permitindo circular entre elas.
 
+## **OBSERVAÇÃO**
+No arquivo possui a pasta video, mas como não tem video local ele não faz o upload aqui. E na questão diz usar audio ou video local, logo usei o audio local
+
+
 ## 📦 Outras pastas
 - **img/** — todas as imagens usadas nas páginas (jardim, rosa, orquídea, lírio, etc.).
 - **audio/** — arquivo de áudio (`Flores.ogg`) usado em `formulario.html`.
